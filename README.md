@@ -1,2 +1,2 @@
-# digit-classifier-audio-digit-python-gmm
-Projekt na studia polegający na stworzeniu od zera prostego klasyfikatora cyfr na podstawie sygnału audio w oparciu o GMM.
+# digit-classifier-audio-digit-python-gmm-pl
+University project that involved creating simple audio classifier of the digit recordings in Polish language, using Gaussian Mixture Model.
